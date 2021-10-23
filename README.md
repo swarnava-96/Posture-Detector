@@ -7,7 +7,7 @@ https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-wit
 
 ### Project Brief:
 I have used a basic html template and a java script file for creating the entire application.
-I have used javascript machine learning libraries like p5.js and ml5.js and hosted the entire application on Github.
+I have used javascript machine learning libraries like p5.js, ml5.js, Posenet and hosted the entire application on Github.
 
 ### Glimpse of the app:
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/75041273/138550039-d338c00b-208b-480a-bec8-dfa8fada4857.gif)
